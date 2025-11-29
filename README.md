@@ -20,15 +20,14 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay611080&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay611080&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
 ## 🔗 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/YOUR_LINK" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/sanjay-verma-149910245/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:sanjayvermaa12121@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
