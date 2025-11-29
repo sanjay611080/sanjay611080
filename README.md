@@ -16,16 +16,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,mongodb,git,github,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjay611080&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay611080&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ## 🔗 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjay-verma-149910245/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
