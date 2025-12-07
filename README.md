@@ -11,10 +11,6 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,mongodb,git,github,linux" />
-</p>
-
 ## 🔗 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjay-verma-149910245/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
