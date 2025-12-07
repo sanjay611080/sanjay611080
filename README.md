@@ -10,6 +10,11 @@
 - 📫 How to reach me: **sanjayvermaa12121@gmail.com**
 
 ## 🚀 Languages and Tools:
+<p></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,mongodb,git,github,linux" />
+</p>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,mongodb,git,github,linux" />
 </p>
