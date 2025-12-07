@@ -9,8 +9,6 @@
 - 💬 Ask me about **JavaScript, Python, APIs**
 - 📫 How to reach me: **sanjayvermaa12121@gmail.com**
 
----
-
 ## 🚀 Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,mongodb,git,github,linux" />
